@@ -1,0 +1,6 @@
+name: TAS Dashboard
+type: module
+description: 'TAS Dashboard functionality'
+package: TAS
+core: '8.x'
+project: 'drupal'

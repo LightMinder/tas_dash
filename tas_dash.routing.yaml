@@ -1,0 +1,8 @@
+tas_dash.main:
+ path: '/admin/tas_dash'
+  defaults:
+    _content: '\Drupal\tas_dash\Controller\TasDashController::TasDash'
+    _title: 'TAS Dashboard'
+  requirements:
+    _permission: 'access TAS dashboard'
+
